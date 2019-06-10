@@ -38,7 +38,7 @@ Options:
 ## Examples
 ### Example 1: Send a message to a device
 
-1. Edit message content in `sample-message-2.json`
+1. Edit message content in [`sample-message-2.json`](sample-message-2.json)
 2. Send it
 ```
 ./fbtool send --file ./sample-message-2.json
@@ -49,7 +49,7 @@ Options:
 ```
 ./fbtool subscribe --topic test-topic-2 --token xxx-yyy-zzz
 ```
-2. Edit message content in `./sample-topic-message.json`
+2. Edit message content in [`sample-topic-message.json`](sample-topic-message.json)
 3. Send the message to the topic
 ```
 ./fbtool send --file ./sample-topic-message.json 

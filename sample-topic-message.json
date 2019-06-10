@@ -1,0 +1,11 @@
+{
+  "data": {
+    "score": "850",
+    "time": "2:45"
+  },
+  "notification": {
+    "title": "Test",
+    "body": "test body"
+  },
+  "condition": "'test-topic' in topics || 'test-topic-2' in topics"
+}

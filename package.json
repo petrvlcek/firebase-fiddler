@@ -1,0 +1,12 @@
+{
+  "name": "firebase-fiddler",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Petr Vlcek",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^8.0.0",
+    "lodash": "^4.17.11",
+    "yargs": "^13.2.4"
+  }
+}

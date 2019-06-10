@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export GOOGLE_APPLICATION_CREDENTIALS=admin-sdk-credentials.json 
+node firebase.js $*
